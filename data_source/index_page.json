@@ -22,7 +22,7 @@
         },
         "Submit_Your_Abstract": {
             "category": "Submit_Your_Abstract",
-            "content": "Submit your abstract to MSNC 2026 and share your research in materials science and nanotechnology. Contribute to shaping the future of the industry.",
+            "content": "Submit your abstract to MSNC 2026 and share your research in Nanotechnology and nanotechnology. Contribute to shaping the future of the industry.",
             "headding": "Submit Your Abstract"
         },
         "sessions": {
@@ -32,7 +32,7 @@
         },
         "footer_content": {
             "category": "footer_content",
-            "content": "Welcome to our Materials Science Conference (MSNC)-2026, where dedicated professionals accumulate to discover the ultra-modern advancements and high-quality practices in healthcare.",
+            "content": "Welcome to our Nanotechnology Conference (MSNC)-2026, where dedicated professionals accumulate to discover the ultra-modern advancements and high-quality practices in healthcare.",
             "headding": "Footer content"
         },
         "offers_content": {
@@ -72,12 +72,12 @@
         "9": {
             "banner_conent_id": "9",
             "image": "images/banner.jpg",
-            "headding": "Pioneering Advances in Materials Science and Innovation",
+            "headding": "Pioneering Advances in Nanotechnology and Innovation",
             "tag_line": "MSNC-April 16-17, 2026 in Barcelona, Spain",
-            "content": "Join the world's most in-demand materials science experts at the <b>Materials Science Conference</b>. Learn keynote sessions, speaker insights, and innovation. <b>Download our brochure</b> to see what's more about this conference and book your place now!",
+            "content": "Join the world's most in-demand Nanotechnology experts at the <b>Nanotechnology Conference</b>. Learn keynote sessions, speaker insights, and innovation. <b>Download our brochure</b> to see what's more about this conference and book your place now!",
             "page": "index",
             "status": "1",
-            "cid": "10032"
+            "cid": "10033"
         }
     },
     "sessions": [
