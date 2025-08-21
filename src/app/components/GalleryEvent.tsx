@@ -24,22 +24,12 @@ const galleryData: GalleryData = {
         "51.webp", "52.webp", "53.webp", "54.webp", "55.webp",
         "56.webp", "57.webp", "58.webp", "59.webp", "60.webp",
         "61.webp", "62.webp", "63.webp", "64.webp", "65.webp",
-        "66.webp", "67.webp", "69.webp", "70.webp",
-        "71.webp", "72.webp", "73.webp", "74.webp", "75.webp",
-        "76.webp", "77.webp", "78.webp", "79.webp",
-        "81.webp", "82.webp", "83.webp", "84.webp", "85.webp",
-        "86.webp", "87.webp", "88.webp", "89.webp", "90.webp",
-        "91.webp", "92.webp", "93.webp", "94.webp", "95.webp",
-        "96.webp", "97.webp", "98.webp", "99.webp",
-        "101.webp", "102.webp", "103.webp", "104.webp", "105.webp", "106.webp", "107.webp", "108.webp", "109.webp",
-        "110.webp", "111.webp", "112.webp", "113.webp", "114.webp", "115.webp", "116.webp", "117.webp", "118.webp", "119.webp",
-        "120.webp", "121.webp", "122.webp", "123.webp", "124.webp", "125.webp", "126.webp", "127.webp", "128.webp", "129.webp",
-        "130.webp", "131.webp", "132.webp", "133.webp", "134.webp", "135.webp", "136.webp", "137.webp", "138.webp", "139.webp",
-        "140.webp", "141.webp", "142.webp", "143.webp", "144.webp", "145.webp", "146.webp", "147.webp", "148.webp", "149.webp",
-        "150.webp", "151.webp", "152.webp", "153.webp", "154.webp", "155.webp", "156.webp", "157.webp", "158.webp", "159.webp",
-        "160.webp", "161.webp", "162.webp", "163.webp", "164.webp", "165.webp", "166.webp", "167.webp", "168.webp", "169.webp",
-        "170.webp", "171.webp", "172.webp", "173.webp", "174.webp", "175.webp", "176.webp", "177.webp", "178.webp", "179.webp",
-        "180.webp", "181.webp", "182.webp", "183.webp", "184.webp", "185.webp", "186.webp", "187.webp",
+        "66.webp","71.webp","72.webp","73.webp","74.webp","76.webp",
+        "77.webp", "78.webp", "79.webp","80.webp","81.webp","82.webp",
+        // "85.webp", "86.webp", "87.webp",
+        //  "88.webp", "89.webp", "90.webp",
+        // "91.webp", "92.webp", "93.webp", "94.webp", "95.webp",
+        // "96.webp", "97.webp", "98.webp", "99.webp", "100.webp"
 
     ],
     allDay2: [],
@@ -89,11 +79,11 @@ export default function GalleryEvent() {
         <div className="gallery-complete-page">
             <div className="gallery-event-block">
                 <div className="auto-container">
-                    <div className="row gallery-images-block">
+                    <div className="gallery-images-block">
                         {columns.map((col, i) => (
                             <div
                                 key={i}
-                                className="col-lg-3 col-md-4 col-sm-4 col-6 each-indiv-images-block"
+                                className="each-indiv-images-block"
                             >
                                 {col}
                             </div>

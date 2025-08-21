@@ -339,10 +339,10 @@ const BannerSection: React.FC<BannerSectionProps> = ({
                     <i className="bx bxs-phone-call box-phone"></i>
                     <b>
                       <a
-                        href={`tel:${general?.phone || ""}`}
-                        title={`${general?.phone || ""}`}
+                        href={`tel:${general?.whatsapp || ""}`}
+                        title={`${general?.whatsapp || ""}`}
                       >
-                        {general?.phone || ""}
+                        {general?.whatsapp || ""}
                       </a>
                     </b>
                   </div>
@@ -385,10 +385,10 @@ const BannerSection: React.FC<BannerSectionProps> = ({
                     <i className="bx bxs-phone-call box-phone"></i>
                     <b>
                       <a
-                        href={`tel:${general?.phone || ""}`}
-                        title={`${general?.phone || ""}`}
+                        href={`tel:${general?.whatsapp || ""}`}
+                        title={`${general?.whatsapp || ""}`}
                       >
-                        {general?.phone || ""}
+                        {general?.whatsapp || ""}
                       </a>
                     </b>
                   </div>
@@ -414,7 +414,7 @@ const BannerSection: React.FC<BannerSectionProps> = ({
               />
               <h2 className="banner-heading-tagline">{tag_line || ""}</h2>
               {/* <p>{content || ""}</p> */}
-              <p dangerouslySetInnerHTML={{ __html: content || "" }}/>
+              <p dangerouslySetInnerHTML={{ __html: content || "" }} />
               <button
                 type="button"
                 title={`${general?.clogotext}_Brochure`}

@@ -18,7 +18,7 @@
     "venue_p2": "",
     "cemail": "nano.msnc@stemnetwork.net",
     "phone": "+1 (872) 2138-777",
-    "whatsapp": "+1 (872) 2138-777",
+    "whatsapp": "41-774144691",
     "full_length_dates": "April 16-17, 2026",
     "full_length_venue": "Hybrid Event ",
     "startDate": "2026-04-16",
@@ -131,6 +131,20 @@
         "title": "Privacy Policy | Nanotechnology Conference 2026 | MSNC 2026 | Spain | April 2026",
         "content": "Read the Privacy Policy for the Nanotechnology Conference 2026. Learn how we collect, use, and protect your personal information for a safe and secure conference experience.",
         "meta_keywords": "Privacy Policy Nanotechnology Conference, Nanotechnology Conference Privacy, Nanomaterials Conference Data Protection, Conference Privacy Policy, Data Privacy Nanotechnology, Nanotechnology Data Usage, Nanotech Conference Privacy Terms"
+      }
+    ],
+    "previous_conference": [
+      {
+        "title": "Previous Conference | Nanotechnology Conference 2026 | MSNC 2026 | Spain | April 2026",
+        "content": "Explore highlights from our previous Nanotechnology Conferences held across the globe. Relive groundbreaking sessions, keynote addresses, and research presentations that shaped the future of nanomaterials and nanotechnology. Gain insights into the success stories and global collaborations from past editions of MSNC.",
+        "meta_keywords": "Previous Nanotechnology Conferences, Nanotechnology Past Events, Nanomaterials Research Highlights, Nanotechnology Conference History, MSNC Previous Editions, Nanotech Conference Archives, Past Nanotechnology Conferences"
+      }
+    ],
+    "galleryEvent": [
+      {
+        "title": "Gallery of Event | Materials Science Conference 2026 | MSNC 2026 | Spain | April 2026",
+        "content": "Browse the gallery of our Nanotechnology Conferences, showcasing memorable moments, keynote speakers, poster presentations, and networking highlights. Experience the global participation, innovations, and discussions that define MSNC events.",
+        "meta_keywords": "Nanotechnology Conference Gallery, Nanotech Event Photos, Nanomaterials Conference Pictures, Nanotechnology Conference Highlights, MSNC Conference Gallery, Nanotech Conference Images, Nanotechnology Event Memories"
       }
     ]
   },
