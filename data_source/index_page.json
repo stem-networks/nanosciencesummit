@@ -82,52 +82,52 @@
     },
     "sessions": [
         {
-            "text": "1. Biomaterials",
+            "text": "1.\tInnovations in Nanotechnology",
             "link": "biomaterials",
             "session_short_name": "Biomaterials"
         },
         {
-            "text": "2.\tApplications for Biomedical Devices",
+            "text": "2.\tNanotechnology for Energy and Environment",
             "link": "applications-for-biomedical-devices",
             "session_short_name": "Applications for Biomedical Devices"
         },
         {
-            "text": "3.\tMaterial for Textile",
+            "text": "3.\tComputational and Theoretical Nanotechnology",
             "link": "material-for-textile",
             "session_short_name": "Material for Textile"
         },
         {
-            "text": "4.\tDrug Delivery",
+            "text": "4.\tNanoelectronics and Nano photonics ",
             "link": "drug-delivery",
             "session_short_name": "Drug Delivery"
         },
         {
-            "text": "5.\tEmerging Materials for Energy Storage and Conversion",
+            "text": "5.\tNanotechnology in Agriculture and Food Science",
             "link": "emerging-materials-for-energy-storage-and-conversion",
             "session_short_name": "Emerging Materials for Energy Storage and Conversion"
         },
         {
-            "text": "6. Material Recycling",
+            "text": "6.\tNanoscience and Emerging Technologies",
             "link": "material-recycling",
             "session_short_name": "Material Recycling"
         },
         {
-            "text": "7. Nano devices and Applications",
+            "text": "7.\tNano biotechnology and Safety Aspects",
             "link": "nano-devices-and-applications",
             "session_short_name": "Nano devices and Applications"
         },
         {
-            "text": "8.Mining and Metallurgy",
+            "text": "8.\tNano materials, Biomaterials, and Synthesis",
             "link": "mining-and-metallurgy",
             "session_short_name": "Mining and Metallurgy"
         },
         {
-            "text": "9.\tInnovations in Surface Science",
+            "text": "9.\tNano medicine and Drug Delivery",
             "link": "innovations-in-surface-science-and-engineering",
             "session_short_name": "Innovations in Surface Science and Engineering"
         },
         {
-            "text": "10.\tAdvanced Semiconductor Materials for Electronics and Photonics",
+            "text": "10.\tFuture Trends and Applications in Nanotechnology",
             "link": "advanced-semiconductor-materials-for-electronics-and-photonics",
             "session_short_name": "Advanced Semiconductor Materials for Electronics and Photonics"
         }
@@ -135,11 +135,11 @@
     "important_dates": [
         {
             "text": "First Round of Abstract Submission Deadline",
-            "date": "29<sub>th</sub> <span>August <br> 2025</span>"
+            "date": "22<sub>nd</sub> <span>September <br> 2025</span>"
         },
         {
             "text": "Early Bird Registration Deadline",
-            "date": "29<sub>th</sub> <span>August <br> 2025</span>"
+            "date": "22<sub>nd</sub> <span>September <br> 2025</span>"
         }
     ],
     "venue_images": {
